@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "769563604770",
+    "project_id": "eshop-5f719",
+    "storage_bucket": "eshop-5f719.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769563604770:android:6a27261fe8a01e0015d77b",
+        "android_client_info": {
+          "package_name": "com.instantnoodle.eshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769563604770-sevktac0pt8h0asncnbarh8pukojcpd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsqU2GTXpxsALQuJUAg6bVekTGuGSmkQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769563604770-sevktac0pt8h0asncnbarh8pukojcpd8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
